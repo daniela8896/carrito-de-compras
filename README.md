@@ -1,6 +1,6 @@
 # Ejemplo carrito de compras con objetos y template
 
-## Lo elabore con el curso de blueweb
+## Creado con el curso de blueweb
 
 ```
 <template id="template">
